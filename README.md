@@ -21,7 +21,7 @@ http://localhost:8081/swagger-ui/index.html#/
 
 ### **Deploy do Projeto:**
 
-Deploy realizo pelo Docker. Deploy em nuvem realizado pelo azure. 
+Deploy realizado pelo Docker. Deploy em nuvem realizado pelo azure. 
 
 Link: ecowave-java.azurewebsites.net
 
