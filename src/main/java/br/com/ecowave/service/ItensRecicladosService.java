@@ -4,7 +4,6 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
-
 import br.com.ecowave.model.ItensReciclados;
 import br.com.ecowave.repository.ItensRecicladosRepository;
 
